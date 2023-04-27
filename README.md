@@ -7,7 +7,7 @@ Project to collect data (temperature, relative humidity, light) from greenhouse 
 The project is split into different phases:
 - ~~Phase 1: Design PCBs and cases for the hardware.~~
 - Phase 2: Read data from sensors and show it on a display.
-- Phase 3: Integreate wireless data transmission and cloud storage followed by an iOS app for data visualisation.
+- Phase 3: Integrate wireless data transmission and cloud storage followed by an iOS app for data visualisation.
 - Phase 4: Add solar pannels for battery charging.
 
 ## Hardware
